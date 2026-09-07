@@ -2,7 +2,7 @@
 
 import { useNavigate} from 'react-router-dom'
 import { useState } from 'react';
-import { useLogin } from '../hooks/useLogin';
+import { useLogin } from '../hooks/useLogin'
 import { gsap } from "gsap";
 import { useGSAP } from '@gsap/react';
 
